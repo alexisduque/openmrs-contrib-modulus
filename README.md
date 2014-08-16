@@ -19,6 +19,7 @@ To prepare a dev environment:
 
         $ git clone https://github.com/openmrs/openmrs-contrib-modulus.git
         $ cd openmrs-contrib-modulus
+        $ git submodule update --init
         
 4. Create a MySQL database:
 
